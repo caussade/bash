@@ -1,5 +1,4 @@
 # bash
-Bash scripts
 
 By Armando Caussade, http://armandocaussade.org/
 Version 1.0.  January 16, 2020.
