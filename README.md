@@ -1,6 +1,6 @@
 # bash
 
-By Armando Caussade, http://armandocaussade.org/
+By Armando Caussade, http://armandocaussade.org/<BR>
 Version 1.0.  January 16, 2020.
 
 -----
