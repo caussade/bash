@@ -1,7 +1,7 @@
 # bash
 
 By Armando Caussade, http://armandocaussade.org/<BR>
-Version 1.0.  January 16, 2020.
+Readme file, version 1.0.  January 16, 2020.
 
 -----
 
